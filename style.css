@@ -1,0 +1,8 @@
+#dogimage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+    height: 40%;
+    margin: auto;
+}
