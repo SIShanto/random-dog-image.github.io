@@ -1,8 +1,12 @@
 #dogimage{
     display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 60%;
-    height: 40%;
+   justify-content: center;
+    width: 50%;
+    height: 20%;
     margin: auto;
+}
+
+.dogButtonDiv{
+   margin-bottom: 10px;
+    text-align: center;
 }
